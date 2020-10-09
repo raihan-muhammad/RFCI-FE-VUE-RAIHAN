@@ -1,24 +1,10 @@
-# frontend-test-vue
+## Permohonan Maaf & Terimakasih
 
-## Project setup
-```
-npm install
-```
+Terimakasih sudah mau me review, tapi jujur dari 3 soal saya cuma copy dan memberbaiki dari orang-orang yang sebelumnya sudah melakukan test ini heuheu
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- [Baryadi](https://github.com/barjava/RFCI-FE-VUE-Baryadi)
+- [Syahda Bagaswara](https://github.com/syahdabagaswara/RFCI-FE-VUE-SYAHDABAGASWARA)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Mohon maaf se besar-besarnya mas baryadi & syahda saya tidak ijin mencopy source code dari mas-mas ini. Saya juga ucapkan terimakasih kepada mas-mas dengan ada nya source code tersebut saya sedikit belajar tentang vue js hehe.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Untuk mas yang me-review, terimakasih sudah mau me review hasil test saya ini. Saya pahami kapasitas saya mengenai vuejs ini masih jauh dari kata cukup.
